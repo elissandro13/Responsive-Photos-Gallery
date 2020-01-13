@@ -4,7 +4,7 @@
 
 Follow the link bellow: 
 
-https://elissandro13.github.io/ResponsivePhotosGallery/
+https://elissandro13.github.io/Responsive-Photos-Gallery/
 
 ## What I Learned
 
